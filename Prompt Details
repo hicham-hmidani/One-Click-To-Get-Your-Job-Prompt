@@ -1,0 +1,270 @@
+Prompt Details
+Model
+Chat - GPT-3.5 (gpt-3.5-turbo)
+Token size
+183 ($0.00128 / call)
+Example input
+Example 1 : 
+
+{Opportunité field} = Data analytics
+-{Level} = Entry-level
+-MCQ Number for Written interview, {MCQ-N-W} =10
+-Number of exercices in Written Competition (Like Exam), {N-EX}= 4
+-Number of Oral interview questions, {N-O} =5
+___________________________________________________________
+
+Example 2 : 
+
+{Opportunité field} = Digital Marketing
+-{Level} = Senior
+-MCQ Number for Written interview, {MCQ-N-W} =15
+-Number of exercices in Written Competition (Like Exam), {N-EX}=3
+-Number of Oral interview questions, {N-O} =5
+Example output
+Example 1 Outputs : 
+Multiple Choice Questions (MCQs) for Written Interview ({MCQ-N-W} = 10):
+
+What is the primary purpose of exploratory data analysis (EDA)?
+a. Predictive modeling
+b. Summarizing main characteristics of data
+c. Reporting statistical significance
+d. Data visualization
+
+Which statistical measure is most sensitive to outliers?
+a. Mean
+b. Median
+c. Mode
+d. Range
+
+In machine learning, what does the term "overfitting" refer to?
+a. Model generalization
+b. Model complexity
+c. Model fitting noise in the training data
+d. Model underperformance
+
+What does SQL stand for in the context of databases?
+a. Structured Query Language
+b. Sequential Query Language
+c. Simplified Query Language
+d. Systematic Query Language
+
+Which data visualization tool is commonly used for creating interactive and shareable dashboards?
+a. Tableau
+b. Excel
+c. Power BI
+d. Matplotlib
+
+What is the purpose of a pie chart?
+a. Displaying trends over time
+b. Comparing proportions within a whole
+c. Showing relationships between variables
+d. Representing hierarchical data
+
+What is the key difference between supervised and unsupervised learning?
+a. Presence of labels in training data
+b. Model complexity
+c. Amount of training data
+d. Performance metrics
+
+What is the significance of the p-value in hypothesis testing?
+a. Measure of effect size
+b. Probability of observing the data if the null hypothesis is true
+c. Confidence interval width
+d. Margin of error
+
+What is the purpose of normalization in data preprocessing?
+a. Removing outliers
+b. Scaling features to a standard range
+c. Imputing missing values
+d. Handling categorical variables
+
+In data analytics, what does the term "dimensionality reduction" refer to?
+a. Increasing the number of features
+b. Reducing the complexity of the model
+c. Reducing the number of features
+d. Improving model accuracy
+
+Written Competition ({N-EX} = 4 Exercises):
+
+Data Cleaning and Preprocessing:
+
+Given a dataset with missing values and outliers, outline the steps you would take to clean and preprocess the data before analysis.
+Exploratory Data Analysis (EDA):
+
+Conduct an EDA on a dataset of your choice. Provide insights into the main characteristics of the data and any interesting patterns or trends.
+SQL Query:
+
+Write a SQL query to retrieve information from a hypothetical database containing information about customers, products, and sales transactions.
+Machine Learning Concepts:
+
+Explain the concept of cross-validation in machine learning and why it is important. Provide an example scenario where cross-validation would be beneficial.
+Oral Interview Questions ({N-O} = 5):
+
+Can you explain the difference between supervised and unsupervised learning? Provide examples of each.
+
+How would you approach solving a real-world business problem using data analytics? Walk me through the steps from problem definition to model deployment.
+
+Discuss a challenging situation you encountered in a previous project and how you overcame it.
+
+What programming languages and tools are you proficient in for data analytics, and how have you applied them in your previous experiences?
+
+How do you stay updated with the latest trends and advancements in the field of data analytics?
+
+10 Advices to Improve Resume:
+
+Clearly highlight relevant technical skills, such as programming languages (e.g., Python, R), data visualization tools (e.g., Tableau), and database management (e.g., SQL).
+
+Showcase any hands-on experience with real-world datasets and projects, emphasizing the impact on decision-making or business outcomes.
+
+Quantify achievements whenever possible, such as the percentage improvement in model accuracy or the efficiency gains from data optimization.
+
+Include any relevant certifications or courses related to data analytics, machine learning, or statistical analysis.
+
+Demonstrate your ability to work with diverse datasets, including structured and unstructured data, through specific examples.
+
+Highlight your problem-solving skills by showcasing projects where you identified and addressed complex analytical challenges.
+
+Showcase your understanding of the end-to-end data analytics process, from data collection and preprocessing to model deployment and interpretation.
+
+Mention any experience collaborating with cross-functional teams or stakeholders, emphasizing effective communication and teamwork.
+
+Customize your resume for each application by tailoring it to the specific job requirements and using keywords relevant to the data analytics field.
+
+Include a brief summary or objective that succinctly conveys your passion for data analytics and your commitment to continuous learning and improvement.
+___________________________________________________________
+
+Example 2 Outputs :
+
+MCQs (Digital Marketing - Senior Level):
+
+What is the primary goal of A/B testing in digital marketing?
+a. Increase website traffic
+b. Improve user experience
+c. Optimize campaign performance
+d. Enhance social media presence
+
+Which metric is most relevant for measuring the success of a social media advertising campaign?
+a. Impressions
+b. Click-through rate (CTR)
+c. Unique visitors
+d. Bounce rate
+
+What role does SEO play in content marketing?
+a. Enhancing visual appeal
+b. Improving website security
+c. Increasing search visibility
+d. Facilitating email marketing
+
+How does a conversion funnel contribute to digital marketing strategy?
+a. Streamlining communication channels
+b. Guiding users through the buying process
+c. Enhancing graphic design elements
+d. Implementing cross-platform compatibility
+
+What is the purpose of using UTM parameters in tracking campaign performance?
+a. Identifying user demographics
+b. Analyzing website load times
+c. Tracking traffic sources
+d. Evaluating social media engagement
+
+How can remarketing benefit a digital marketing campaign?
+a. Increasing brand awareness
+b. Targeting a new audience
+c. Reducing advertising costs
+d. Enhancing content relevance
+
+In email marketing, what is the significance of a high open rate?
+a. Increased click-through rate
+b. Improved deliverability
+c. Enhanced conversion rate
+d. Greater social media visibility
+
+What role does data analytics play in digital marketing decision-making?
+a. Identifying industry trends
+b. Enhancing graphic design
+c. Streamlining administrative tasks
+d. Automating email campaigns
+
+How can a senior digital marketer leverage influencer marketing?
+a. Boosting website traffic
+b. Enhancing brand credibility
+c. Reducing advertising costs
+d. Improving page load speed
+
+What is the primary purpose of a heat map in website analytics?
+a. Evaluating user behavior
+b. Enhancing website security
+c. Identifying server issues
+d. Analyzing graphic design elements
+
+How can a digital marketer optimize content for voice search?
+a. Focus on short-tail keywords
+b. Prioritize visual content
+c. Use conversational language
+d. Increase keyword density
+
+What is the significance of a low bounce rate in Google Analytics?
+a. Higher engagement
+b. Improved page load speed
+c. Enhanced social media presence
+d. Increased website security
+
+How does social listening contribute to a successful digital marketing strategy?
+a. Monitoring competitors
+b. Enhancing graphic design
+c. Identifying customer sentiments
+d. Streamlining communication channels
+
+What role does user-generated content play in digital marketing?
+a. Boosting brand credibility
+b. Reducing website load times
+c. Enhancing email deliverability
+d. Improving server security
+
+How can a senior digital marketer effectively utilize marketing automation tools?
+a. Streamlining communication channels
+b. Enhancing website security
+c. Reducing advertising costs
+d. Personalizing customer interactions
+
+Written Competition (3 Exercises):
+
+Exercise 1: Develop a comprehensive digital marketing strategy for a new product launch, considering both online and offline channels.
+
+Exercise 2: Analyze a recent digital marketing campaign, highlighting its strengths, weaknesses, opportunities, and threats (SWOT analysis).
+
+Exercise 3: Create a sample social media content calendar for a month, outlining key themes, posting schedules, and engagement strategies.
+
+Oral Interview Questions (5 Questions):
+
+Can you share a specific example from your career where you successfully implemented a data-driven approach to improve digital marketing performance?
+
+How do you stay updated on the latest trends and innovations in the digital marketing landscape, and how do you integrate these into your strategies?
+
+Describe a challenging situation you faced in managing a cross-functional digital marketing team and how you resolved it.
+
+In your opinion, what emerging technologies have the potential to significantly impact the future of digital marketing, and how would you adapt your strategies accordingly?
+
+How do you approach measuring the return on investment (ROI) for digital marketing campaigns, especially when dealing with complex attribution models?
+
+10 Advices to Improve Resume:
+
+Highlight Achievements: Emphasize specific accomplishments and quantifiable results in your previous roles, showcasing your impact on key performance indicators.
+
+Showcase Leadership: Demonstrate instances where you've led successful digital marketing initiatives or managed teams, emphasizing your leadership skills.
+
+Technical Proficiency: Clearly articulate your proficiency in relevant tools and technologies such as Google Analytics, SEO tools, marketing automation platforms, etc.
+
+Certifications: Mention any relevant certifications in digital marketing or related fields, showcasing your commitment to ongoing learning.
+
+Strategic Thinking: Describe your ability to develop and execute strategic digital marketing plans, considering long-term goals and market trends.
+
+Adaptability: Showcase instances where you successfully adapted to changes in algorithms, platforms, or industry trends, demonstrating flexibility.
+
+Collaboration: Highlight experiences of collaborating with cross-functional teams, showcasing effective communication and teamwork.
+
+Industry Knowledge: Display a deep understanding of the industry landscape, competitors, and customer behaviors to reinforce your strategic approach.
+
+Problem-solving Skills: Narrate situations where you identified challenges in campaigns and implemented effective solutions, showcasing problem-solving abilities.
+
+Continuous Improvement: Convey a commitment to personal and professional growth, mentioning how you stay updated with industry trends and actively seek improvement.
