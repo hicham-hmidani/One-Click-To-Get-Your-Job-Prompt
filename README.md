@@ -1,4 +1,4 @@
-# One-Click-To-Get-Your-Job-Prompt
+# One-Click-To-Get-Your-Job-Prompt (ChatGPT 3.5)
 This prompt engineering project aims to streamline job interview preparation by generating customized resources for individual candidates.
 
 PROMPT : <{Opportunité field} = [feild]
